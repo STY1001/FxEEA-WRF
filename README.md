@@ -1,9 +1,9 @@
 # FxEEA-WRF
 Remove the fucking EEA (DMA) restriction for some Windows Feature
 
-If you are in a EEA region, you know how is annying can be some European stupid law (like DMA, DCA or GDPR), this is why, here we don't have all cool features or 5 year later when the feature is deprecated
+If you are in the European Economic Area (EEA), you know how annoying some stupid European laws (such as DMA, DCA or GDPR). And that's because of them that us Europeans don't get all the cool features available elsewhere around the world - or 5 years later when the feature is deprecated...
 
-I don't say all this laws are useless, it can be cool sometime (for exemple, removable Edge) but, most of the time it's very restrictive and annoying
+I don't say that all this laws are useless, sometimes they can be cool (for example, being able to uninstall Edge), but most of the time they're very restrictive and annoying.
 
 
 ## How to use it ?
