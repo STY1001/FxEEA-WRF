@@ -7,7 +7,7 @@ I don't say all this laws are useless, it can be cool sometime (for exemple, rem
 
 
 ## How to use it ?
-1. Download the `main.py` file
+1. Download the [`main.py`](https://raw.githubusercontent.com/STY1001/FxEEA-WRF/refs/heads/main/main.py) file
 2. Install Python on you PC if you don't have it
 3. Launch a command prompt and simply run `python main.py`
-4. Reboot your PC and re enjoy to be in EEA
+4. Reboot your PC and re enjoy being in the EEA
