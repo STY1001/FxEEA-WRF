@@ -3,7 +3,7 @@ import getpass
 import sys
 import ctypes
 
-ISSRPS_Path = 'C:\Windows\System32\IntegratedServicesRegionPolicySet.json'
+ISSRPS_Path = r'C:\Windows\System32\IntegratedServicesRegionPolicySet.json'
 EEA_Strings = '"AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GF", "GP", "GR", "HR", "HU", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MT", "MQ", "NL", "NO", "PL", "PT", "RE", "RO", "SE", "SI", "SK", "YT"'
 
 def is_admin():
@@ -56,3 +56,4 @@ with open(ISSRPS_Path, 'r') as file:
         print(f"EEA strings successfully removed from {ISSRPS_Path}.")
         print(f"Done ! Remember to restart your computer for the changes to take effect.")
     file.close()
+input("Press Enter to exit...")
